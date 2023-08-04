@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#This script searches for txt files in a disk partition and prints out the contents of any txt
+#This script searches for files matching the given file extension in a disk partition and prints out the contents of 
 
 DISK_NAME=$1
 PARTITION_START=$2
